@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently building and improving Full Stack Web Applications  <br><br>👯 I’m open to collaborating on MERN Stack and real-world web projects  <br><br>🌱 I’m currently strengthening my DSA skills with Java and exploring advanced backend concepts  <br><br>💬 Ask me about Web Development, Java, Backend Development, and DSA  <br><br>⚡ Fun fact: Built an Airbnb-like full stack project (Wanderlust) and a Zerodha UI Clone by 4th semester 🚀
 
 
