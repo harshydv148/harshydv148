@@ -1,18 +1,115 @@
-#  About Me:
-🔭 I’m currently building and improving Full Stack Web Applications  <br><br>👯 I’m open to collaborating on MERN Stack and real-world web projects  <br><br>🌱 I’m currently strengthening my DSA skills with Java and exploring advanced backend concepts  <br><br>💬 Ask me about Web Development, Java, Backend Development, and DSA  <br><br>⚡ Fun fact: Built an Airbnb-like full stack project (Wanderlust) and a Zerodha UI Clone by 4th semester 🚀
+<div align="center">
 
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · harshydv148</sub></p>
+<h1>Harsh yadav</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>BCA Student | Full Stack Developer | MERN Stack | DSA with Java | Open to SDE Opportunities</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-yadav-876427371) 
+<p><a href="https://github.com/harshydv148">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/197496439?v=4" width="180" alt="Harsh yadav GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshydv148&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harshydv148&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshydv148&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2>What teams can evaluate quickly</h2>
 
----
-[![](https://visitcount.itsvg.in/api?id=harshydv148&icon=0&color=0)](https://visitcount.itsvg.in)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · Java · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>6 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>52 contributions · 22 active days</p></td>
+</tr>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><sub>BCA Student | Full Stack Developer | MERN Stack | DSA with Java | Open to SDE Opportunities</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>6</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>52</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=harshydv148&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197496439%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=harshydv148&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197496439%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Harsh yadav GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=harshydv148&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197496439%3Fv%3D4&repos=harshydv148%2FLeetcode-%2Charshydv148%2FFRIDAY-AI-ASSISSTANT%2Charshydv148%2FWanderLust%2Charshydv148%2FZerodha-Project&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=harshydv148&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197496439%3Fv%3D4&repos=harshydv148%2FLeetcode-%2Charshydv148%2FFRIDAY-AI-ASSISSTANT%2Charshydv148%2FWanderLust%2Charshydv148%2FZerodha-Project&v=recruiter-projects-1&mode=dark" width="100%" alt="Harsh yadav selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/harshydv148/Leetcode-">Leetcode-</a></h3>
+<p>A selected public project.</p>
+<p><sub>Java · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/harshydv148/Leetcode-">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/harshydv148/FRIDAY-AI-ASSISSTANT">FRIDAY-AI-ASSISSTANT</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/harshydv148/WanderLust">WanderLust</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/harshydv148/Zerodha-Project">Zerodha-Project</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=harshydv148&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197496439%3Fv%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=harshydv148&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197496439%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Harsh yadav technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>48% of public code</sub></td>
+<td width="20%" align="center"><strong>Java</strong><br /><sub>22% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>20% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>6% of public code</sub></td>
+<td width="20%" align="center"><strong>EJS</strong><br /><sub>4% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=harshydv148&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197496439%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=harshydv148&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197496439%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Harsh yadav contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/harshydv148">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Harsh yadav · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
